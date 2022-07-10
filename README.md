@@ -1,2 +1,3 @@
 # Alura-Plus
-Subscription site
+Site simples da alura divulgando a plataforma
+
